@@ -1,6 +1,17 @@
+Using Git 
 1. save document in directory
 2. goto correct directory (cd)
 3. git status
 4. git add .
 5. git commit -m ""
 6. git push
+
+To create a document
+1. goto correct directory (cd)
+2. touch (name of document)
+3. vi (name of document)
+4.(I) to insert 
+5. Type what you want in your document
+6. ESC
+7. Shift + : , wq!
+8. Repeat Steps 3-6 from Using Git section 
