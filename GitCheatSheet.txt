@@ -15,3 +15,7 @@ To create a document
 6. ESC
 7. Shift + : , wq!
 8. Repeat Steps 3-6 from Using Git section 
+
+To retrieve updated information added through Github
+1. goto correct directory (cd)
+2. git pull
